@@ -1,6 +1,7 @@
 # Bangla word list
 * The word list file is [words.txt](words.txt)
-* Currently it contains 454657 words
+* Currently it contains 454650 words
+* Words are sorted
 
 ## LICENSE
 ```
@@ -33,4 +34,5 @@ For more information, please refer to <https://unlicense.org>
 ----
 # বাংলা শব্দ তালিকা
 * শব্দ তালিকার ফাইলটি হলো [words.txt](words.txt)
-* এখন তালিকায় ৪৫৪৬৫৭ শব্দ রয়েছে
+* এখন তালিকায় ৪৫৪৬৫০ শব্দ রয়েছে
+* শব্দসমূহ ক্রমানুসারে সাজানো রয়েছে
